@@ -1,4 +1,5 @@
-#include "window.h"
+#include "Window.h"
+#include <stdio.h>
 
 const char* window_title = "GLFW Starter Project";
 Cube * cube;
